@@ -1,1 +1,1 @@
-# Data-Science-Sessions conducted in college
+# Data-Science-Sessions
